@@ -2,5 +2,6 @@ RENCANA BELAJAR GITHUB
 - Saya berencana belajar tahap dasar
   * Membuat akun
   * Membuat repository
+  * Membuat beberapa branch
 - Implementasi github
 - Paham tentang github
