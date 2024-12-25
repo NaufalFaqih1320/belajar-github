@@ -2,5 +2,9 @@ RENCANA BELAJAR GITHUB
 - Saya berencana belajar tahap dasar
   * Membuat akun
   * Membuat repository
+  * Belajar Branch dan Merge
+  * Belajar Merge Konflik
 - Implementasi github
+  * Semua file masih di github
 - Paham tentang github
+- Paham lebih dalam lagi
