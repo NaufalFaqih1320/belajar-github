@@ -3,3 +3,4 @@ RENCANA BELAJAR GITHUB
   * Membuat akun
   * Membuat repository
 - Implementasi github
+- Paham tentang github
